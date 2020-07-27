@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Electron
 
 [![RedNeno's github stats](https://github-readme-stats.vercel.app/api?username=boxlab&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxlab)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
