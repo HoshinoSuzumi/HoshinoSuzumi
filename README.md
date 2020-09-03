@@ -1,8 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=boxlab&count_private=true&show_icons=true" />
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning Electron
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=boxlab&count_private=true&show_icons=true" />
 
 <!--
 **boxlab/boxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
