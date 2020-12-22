@@ -4,6 +4,12 @@
 
 - 🌱 I’m currently learning Electron
 - 📫 Get in touch: [Email](mailto:boxlab@foxmail.com)
+- 😄 Pronouns: NeonChan
+
+### Who am I?
+
+I'm who I am.
+I'm just a senior high school student.
 <!--
 **boxlab/boxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
