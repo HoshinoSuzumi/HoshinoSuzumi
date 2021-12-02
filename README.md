@@ -10,7 +10,7 @@
 ### Who am I?
 
 I'm who I am.
-I'm just a senior high school student.
+Just a fresher.
 <!--
 **boxlab/boxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
