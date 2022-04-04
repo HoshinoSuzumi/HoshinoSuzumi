@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on uniSSO
-- 🌱 I’m currently learning Electron
-- 📫 Get in touch: [Email](mailto:boxlab@foxmail.com)
+- 🔭 I’m currently working on CTFever & uniSSO
+- 🌱 I’m currently learning VueJs and many things
+- 📫 Get in touch: [Email](mailto:master@uniiem.com)
 - 😄 Pronouns: NeonChan
 
 ### Who am I?
