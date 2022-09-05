@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning VueJs and many things
 - 📫 Get in touch: [Email](mailto:master@uniiem.com)
 - 😄 Pronouns: NeonChan
+- 🔒 GPG Public Key: [HoshinoSuzumi.gpg](https://github.com/HoshinoSuzumi.gpg)
 
 ### Who am I?
 
