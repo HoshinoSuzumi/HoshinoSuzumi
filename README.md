@@ -32,6 +32,7 @@
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D5ANK41%26type%3Dpledges&style=flat)](https://patreon.com/5ANK41)
 [![爱发电](https://afdian.moeci.com/11/badge.svg)](https://afdian.net/a/hoshino_suzumi)
+[![NPM Downloads by package author](https://img.shields.io/npm-stat/dm/HoshinoSuzumi?logo=npm&color=red)](https://www.npmjs.com/~hoshinosuzumi)
 
 ###
 
