@@ -1,6 +1,6 @@
 <h3 align="left">Here's Timothy Yin</h3>
 
-<a rel="me" href="https://mastodon.uniiem.com/@HoshinoSuzumi">mastodon</a>
+<a rel="me" href="https://mas.uniiem.com/@HoshinoSuzumi">mastodon</a>
 
 ###
 
