@@ -1,5 +1,7 @@
 <h3 align="left">Here's Timothy Yin</h3>
 
+<a rel="me" href="https://mastodon.uniiem.com/@HoshinoSuzumi">mastodon</a>
+
 ###
 
 <p align="left">A regular everyday normal college student.</p>
