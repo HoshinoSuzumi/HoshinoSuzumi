@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">A regular everyday normal college student.</p>
+<p align="left">A regular everyday normal university student.</p>
 
 ###
 
