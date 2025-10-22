@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Learning Nuxt & Next<br>🎯 Goals: gained 800+ stars before graduation</p>
+<p align="left">
+  ✨ Creating bugs since 2018
+  <br>
+  📚 Currently using: <b>NuxtJS, TailwindCSS, JavaScript/TypeScript, NodeJS</b>
+  <br>
+  ✈️ Open up remote work opportunities
+</p>
 
 ###
 
