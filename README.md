@@ -36,16 +36,10 @@
 
 ###
 
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D5ANK41%26type%3Dpledges&style=flat)](https://patreon.com/5ANK41)
-[![爱发电](https://afdian.moeci.com/11/badge.svg)](https://afdian.com/a/HoshinoSuzumi)
-[![NPM Downloads by package author](https://img.shields.io/npm-stat/dm/HoshinoSuzumi?logo=npm&color=red)](https://www.npmjs.com/~hoshinosuzumi)
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoshinoSuzumi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&custom_title=My%20stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoshinoSuzumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&order=2&custom_title=Code%20with..." height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=HoshinoSuzumi&locale=en&mode=daily&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoshinoSuzumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&order=2&custom_title=Code%20with..." height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoshinoSuzumi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&custom_title=My%20stats" height="150" alt="stats graph"  />
 </div>
 
 ###
